@@ -37,6 +37,7 @@ npm init -y && npm i --save-dev node@20 && npm config set prefix=$(pwd)/node_mod
 From the Shell, type: 
 ```
 node deploy-commands.js
+node index.js
 ```
 
 
