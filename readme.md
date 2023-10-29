@@ -1,6 +1,6 @@
 > COPYRIGHT DISCLAIMER
 > 
-> All written content, code, and arrangement thereof are Copyrighted © 2023 by Aristocles (apos37) (Discord User ID# 686979180943900677), all rights reserved.
+> All written content, code, and arrangement thereof are Copyrighted © 2023 by Aristocles (apos37), all rights reserved.
 > You may not copy or transmit the contents of this code either electronically or in hard copies. Use of this bot or any bot using the same content is strictly prohibited.
 > 
 
