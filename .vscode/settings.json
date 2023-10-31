@@ -1,3 +1,8 @@
 {
-    "editor.defaultFormatter": "dprint.dprint"
+  "editor.defaultFormatter": "dprint.dprint",
+  "cSpell.words": [
+    "disp",
+    "leaderboard",
+    "unvote"
+  ]
 }
